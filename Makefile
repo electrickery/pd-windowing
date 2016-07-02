@@ -14,10 +14,9 @@ kaiser~.class.sources   = src/kaiser~.c
 lanczos~.class.sources  = src/lanczos~.c  
 welch~.class.sources    = src/welch~.c
 
-extradirs = examples
-
 datafiles = \
 $(wildcard help/*-help.pd) \
+help/dspSwitch~.pd \
 LICENSE.txt \
 README.md \
 README.txt \
