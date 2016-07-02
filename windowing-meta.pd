@@ -3,6 +3,6 @@
 #X text 10 12 NAME windowing;
 #X text 10 52 AUTHOR Joe Sarlo;
 #X text 10 72 LICENSE GPLv2 or later;
-#X text 10 92 VERSION 0.1.1;
+#X text 10 92 VERSION 0.2.0;
 #X text 10 32 DESCRIPTION set of window generators;
 #X restore 10 10 pd META;
