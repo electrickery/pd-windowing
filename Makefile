@@ -20,14 +20,13 @@ help/dspSwitch~.pd \
 LICENSE.txt \
 README.md \
 README.txt \
+src/mconf.h \
 windowing-meta.pd
 
 
-externalsdir = ..
-# include Makefile.pdlibbuilder from parent or current directory 
--include $(externalsdir)/Makefile.pdlibbuilder 
+externalsdir = ../..
 
-ifndef Makefile.pdlibbuilder 
-include Makefile.pdlibbuilder 
-endif
+PDLIBBUILDER_DIR=.
+include $(firstword $(wildcard $(PDLIBBUILDER_DIR)/Makefile.pdlibbuilder \
+  $(externalsdir)/Makefile.pdlibbuilder))
  
