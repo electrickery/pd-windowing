@@ -8,9 +8,6 @@ https://sourceforge.net/p/pure-data/svn/HEAD/tree/trunk/externals/windowing/.
 
 <p align="center"><img src="windowing-help.png">
 
-<p>This repository replaces the Library Template Makefile by the pd-lib-builder 
-buildsystem. This to simplify creation of a deken package of the libary.
-
 <p>See the original README.txt for more information. An extensive 
 description of window functions can be found at 
 https://en.wikipedia.org/wiki/Window_function.
@@ -18,4 +15,4 @@ https://en.wikipedia.org/wiki/Window_function.
 <p>For bugs found in this version, please report them to me. Joseph is not 
 responsible for bugs introduced by me.
 
-<p>Fred Jan Kraan fjkraan@xs4all.nl 2016-07-02
+<p>Fred Jan Kraan fjkraan@xs4all.nl 2019-12-22
