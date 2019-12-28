@@ -1,0 +1,10 @@
+bartlett  generates a bartlett (triangle) window for each dsp block
+blackman  generates a blackman window for each dsp block
+connes    generates a connes window for each dsp block
+cosine    generates a cosine window for each dsp block
+gaussian  generates a gaussian window for each dsp block
+hamming   generates a hamming (raised cosine) window for each dsp block
+hanning   generates a hanning (inverted cosine) window for each dsp block
+kaiser    generates a kaiser (exponential decay) window for each dsp block
+lanczos   generates a lanczos (sinc) window for each dsp block
+welch     generates a welch window for each dsp block
