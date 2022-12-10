@@ -1,8 +1,7 @@
-#N canvas 8 107 200 200 10;
-#N canvas 18 79 420 300 META 0;
+#N canvas 37 107 368 230 10;
 #X text 10 12 NAME windowing;
 #X text 10 52 AUTHOR Joe Sarlo;
-#X text 10 72 LICENSE GPLv2 or later;
-#X text 10 92 VERSION 0.2.0;
+#X text 10 72 MAINTAINER Fred Jan Kraan <fjkraan@electrickery.nl>;
+#X text 10 92 LICENSE GPLv2 or later;
+#X text 10 112 VERSION 0.3.0;
 #X text 10 32 DESCRIPTION set of window generators;
-#X restore 10 10 pd META;

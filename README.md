@@ -15,4 +15,4 @@ https://en.wikipedia.org/wiki/Window_function.
 <p>For bugs found in this version, please report them to me. Joseph is not 
 responsible for bugs introduced by me.
 
-<p>Fred Jan Kraan fjkraan@xs4all.nl 2019-12-22
+<p>Fred Jan Kraan fjkraan@electrickery.nl 2022-12-10
